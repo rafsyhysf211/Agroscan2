@@ -1,0 +1,8 @@
+{
+  "name": "Sobat Tani AI",
+  "description": "Asisten cerdas untuk petani: deteksi penyakit tanaman melalui foto, jadwal perawatan, dan konsultasi AI real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
